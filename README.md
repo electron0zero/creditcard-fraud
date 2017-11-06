@@ -13,4 +13,4 @@ Unzip and put it in input folder.
 3. Install Dependencies using `pip install -r requirements.txt`
 4. download dataset from google drive, unzip it and put `creditcard.csv` in input folder
 5. run Jupyter Notebook using `jupyter notebook`
-6. Browser it in your web browser and have fun.
+6. Browse it in your web browser and have fun.
